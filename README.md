@@ -89,8 +89,6 @@ rbf-neural-network/
 │   └── test_*.py
 ├── examples/                      # Example scripts
 │   └── example.py                 # Complete usage example
-├── docs/                          # Documentation
-├── data/                          # Data files
 ├── setup.py                       # Package setup configuration
 ├── requirements.txt               # Dependencies
 ├── README.md                      # This file
