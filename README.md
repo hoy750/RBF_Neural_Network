@@ -354,8 +354,7 @@ experiment_config.save_config("experiments/high_capacity.json")
 quick_config = create_experiment_config(
     "quick_test",
     max_epochs=50,
-    n_hidden_units=4,
-    verbose=False
+    n_hidden_units=4
 )
 ```
 
